@@ -66,8 +66,8 @@ CodeAlpha_Chatbot/
 
 ## Author
 
-Devarai Shravan
+Devari Shravan
 
 ## Internship
 
-CodeAlpha Internship Project - Task 4: Making a Chatbot
+
